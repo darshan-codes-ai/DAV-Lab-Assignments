@@ -9,3 +9,9 @@ This lab focuses on practical implementation of data analysis and visualization 
 - **NumPy** - Numerical computing
 - **Pandas** - Data manipulation and analysis
 - **Matplotlib** - Data visualization
+
+## 📝 Assignments
+
+| Assignment | Topic | Status |
+|------------|-------|--------|
+| Lab 1 | Data Preparation & Basic Analysis | ✅ Completed |
